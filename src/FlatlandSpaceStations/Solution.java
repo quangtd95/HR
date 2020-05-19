@@ -1,25 +1,19 @@
 package FlatlandSpaceStations;
 
-import java.util.Arrays;
-
 public class Solution {
     // Complete the flatlandSpaceStations function below.
     static int flatlandSpaceStations(int n, int[] c) {
-        Arrays.sort(c);
-        int spaceStationIndex = 0;
         int max = 0;
-        int count = 0;
-        int index = 0;
-        while (index < n) {
-            if (index == c[spaceStationIndex]) {
-                count = 0;
-            } else {
-                count++;
+        for (int i = 0; i < n; i++) {
+            int distance = Integer.MAX_VALUE;
+            for (int value : c) {
+                if (Math.abs(i - value) < distance) {
+                    distance = Math.abs(i - value);
+                }
             }
-            if (count > max) {
-                max = count;
+            if (distance > max) {
+                max = distance;
             }
-            index++;
         }
         return max;
     }

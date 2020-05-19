@@ -1,38 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b5015b7-39ba-45c2-9c59-c58de04216fb" name="Default Changelist" comment="" />
+    <list default="true" id="1b5015b7-39ba-45c2-9c59-c58de04216fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeautifulTriplets/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiggerisGreater/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bomberman/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CavityMap/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChocolateFeast/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayConCoTongBangS/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayConDonDieuDaiNhat/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/ThreadSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FairRations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HalloweenSales/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManasaandStones/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumDistances/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModifiedKaprekarNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceLanes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheGridSearch/input05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vali/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AppendandDelete/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/AppendandDelete/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FlatlandSpaceStations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/FlatlandSpaceStations/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbsolutePermutation/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbsolutePermutation/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbsolutePermutation/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/my_output02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbsolutePermutation/my_output02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppendandDelete/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppendandDelete/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlatlandSpaceStations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlatlandSpaceStations/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y2ASr62PaQO4xF8eVOjlWhrPpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AbsolutePermutation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadSafeDemo">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbsolutePermutation.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Vali.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbsolutePermutation.*" />
+          <option name="PATTERN" value="Vali.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CutTheSticks.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ServiceLanes.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CutTheSticks.*" />
+          <option name="PATTERN" value="ServiceLanes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,24 +105,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaumandBday.Solution" />
+      <option name="MAIN_CLASS_NAME" value="DayConCoTongBangS.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaumandBday.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SurfaceArea3D.Solution" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SurfaceArea3D.*" />
+          <option name="PATTERN" value="DayConCoTongBangS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +118,24 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HappyLadyBug.Solution" />
+      <option name="MAIN_CLASS_NAME" value="DayConDonDieuDaiNhat.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HappyLadyBug.*" />
+          <option name="PATTERN" value="DayConDonDieuDaiNhat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadSafeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ThreadSafeDemo" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,10 +145,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadSafeDemo" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
@@ -110,6 +161,29 @@
             <expand />
             <select />
           </treeState>
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="groupByContributor" value="true" />
+          <option name="isSelected" value="true" />
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Docker" />
+                    <option value="Docker" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.docker.view.DockerServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
         </serviceView>
       </list>
     </option>
@@ -130,73 +204,123 @@
       <workItem from="1582268971986" duration="1649000" />
       <workItem from="1582275748452" duration="5725000" />
       <workItem from="1582291508563" duration="14989000" />
-      <workItem from="1582345682376" duration="8813000" />
+      <workItem from="1582345682376" duration="26395000" />
+      <workItem from="1582559117116" duration="3662000" />
+      <workItem from="1582630277547" duration="2186000" />
+      <workItem from="1582646786298" duration="3862000" />
+      <workItem from="1582886788626" duration="2783000" />
+      <workItem from="1582989858281" duration="5018000" />
+      <workItem from="1583074695778" duration="8744000" />
+      <workItem from="1583340879873" duration="684000" />
+      <workItem from="1584726928471" duration="212000" />
+      <workItem from="1586876352814" duration="6837000" />
+      <workItem from="1586957675887" duration="5500000" />
+      <workItem from="1586969067786" duration="117000" />
+      <workItem from="1587043973230" duration="2638000" />
+      <workItem from="1587132512239" duration="1833000" />
+      <workItem from="1587228607143" duration="4069000" />
+      <workItem from="1587289504211" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="445" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582291632307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582291632307" />
-    <state x="102" y="135" key="#xdebugger.evaluate" timestamp="1582354394522">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1587230412202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="102" y="135" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1582354394522" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1582355786849">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587230412202" />
+    <state x="318" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587231331195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582355786849" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1582355786849">
+    <state x="318" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1587231331195" />
+    <state x="411" y="298" width="490" height="430" key="#xdebugger.evaluate" timestamp="1583082960968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582355786849" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1582355786849">
+    <state x="411" y="298" width="490" height="430" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1583082960968" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586969145914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582355786849" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1582355786849">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586969145914" />
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1587232081441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582355786849" />
-    <state width="1323" height="237" key="GridCell.Tab.1.bottom" timestamp="1582355722039">
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
+    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1587232081441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582355722039" />
-    <state width="1323" height="237" key="GridCell.Tab.1.center" timestamp="1582355722039">
+    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
+    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1587232081440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582355722039" />
-    <state width="1323" height="237" key="GridCell.Tab.1.left" timestamp="1582355722039">
+    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587232081440" />
+    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1587232081441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582355722039" />
-    <state width="1323" height="237" key="GridCell.Tab.1.right" timestamp="1582355722039">
+    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
+    <state width="1323" height="170" key="GridCell.Tab.1.bottom" timestamp="1586966283545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582355722039" />
+    <state width="1323" height="170" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586966283545" />
+    <state width="1323" height="170" key="GridCell.Tab.1.center" timestamp="1586966283544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586966283544" />
+    <state width="1323" height="170" key="GridCell.Tab.1.left" timestamp="1586966283544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586966283544" />
+    <state width="1323" height="170" key="GridCell.Tab.1.right" timestamp="1586966283545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586966283545" />
+    <state x="350" y="69" key="NewModule_or_Project.wizard" timestamp="1586969182744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="69" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1586969182744" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1586880262299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586880262299" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582348178635">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1582348178635" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582346189451">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587289788072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582346189451" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587289788072" />
+    <state x="247" y="103" width="871" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586966202060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="247" y="103" width="871" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586966202060" />
     <state x="413" y="130" key="extract.method.dialog" timestamp="1582355306286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="130" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582355306286" />
+    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1583083884931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583083884931" />
+    <state x="65" y="72" key="new project wizard" timestamp="1587289817667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="72" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587289817667" />
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582305219767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582305219767" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582214563019">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587231253143">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582214563019" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587231253143" />
   </component>
 </project>

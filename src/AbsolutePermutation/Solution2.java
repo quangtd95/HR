@@ -1,62 +1,11 @@
 package AbsolutePermutation;
 
-import java.util.ArrayList;
+import java.io.*;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 import java.util.stream.IntStream;
 
-public class Solution {
-
-    // Complete the absolutePermutation function below.
-    static int[] absolutePermutation(int n, int k) {
-        int[] a = new int[n];
-        Set<Integer> checkSet = new HashSet<>();
-        boolean b = build(checkSet, a, 0, k);
-        return b ? a : new int[]{-1};
-    }
-
-    private static boolean checkAbsPer(Set<Integer> temp, int[] a, int k) {
-        System.out.println("checking...");
-        println(a);
-        for (int i = 0; i < a.length; i++) {
-            int j = a[i];
-            if (Math.abs(j - i - 1) != k) {
-                return false;
-            }
-        }
-        return temp.size() == a.length;
-    }
-
-    static boolean build(Set<Integer> tempSet, int[] a, int i, int k) {
-        List<Integer> tempList = new ArrayList<>();
-        if (k == 0) {
-            tempList.add(i + 1);
-        } else {
-            if (i + 1 - k >= 1) {
-                tempList.add(i + 1 - k);
-            }
-            if (i + 1 + k <= a.length) {
-                tempList.add(i + 1 + k);
-            }
-        }
-        for (Integer v : tempList) {
-            if (tempSet.contains(v)) continue;
-            a[i] = v;
-            tempSet.add(v);
-            if (i == a.length - 1) {
-                if (checkAbsPer(tempSet, a, k)) {
-                    return true;
-                }
-            } else {
-                boolean result = build(tempSet, a, i + 1, k);
-                tempSet.remove(v);
-                if (result) return true;
-            }
-        }
-        return false;
-    }
-
+public class Solution2 {
     //return 0: error
     static int getMinValue(int n, int i, int k) {
         int xMin = i + 1 - k;
@@ -79,16 +28,54 @@ public class Solution {
         return Math.max(xMax, xMin);
     }
 
-    static int[] build2(int n, int k) {
+    static boolean canChange(int n, int i, int k) {
+        return getMaxValue(n, i, k) != getMinValue(n, i, k);
+    }
+
+    static boolean cannotChange(int n, int i, int k) {
+        return !canChange(n, i, k);
+    }
+
+    static int[] absolutePermutation(int n, int k) {
         if (k == 0) {
             return IntStream.range(1, n + 1).toArray();
         }
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++) {
+            int value = getMinValue(n, i, k);
+            if (value == 0) {
+                return new int[]{-1};
+            }
+            a[i] = value;
+        }
+        Set<Integer> tempSet = new HashSet<>();
+        if (checkAbsPer(tempSet, a, k)) {
+            return a;
+        }
+        int firstMin;
+        while (true) {
+            firstMin = n - 1;
+            while (firstMin > 0 && (cannotChange(n, firstMin, k) || a[firstMin] == getMaxValue(n, firstMin, k))) {
+                firstMin--;
+            }
+            int i = firstMin;
+            a[i] = getMaxValue(n, i, k);
+            i++;
+            while (i < n) {
+                a[i] = getMinValue(n, i, k);
+                i++;
+            }
+            if (checkAbsPer(tempSet, a, k)) {
+                return a;
+            }
+            if (firstMin == 0 && a[firstMin] == getMaxValue(n, firstMin, k)) {
+                return new int[]{-1};
+            }
+        }
     }
 
-    private static boolean checkAbsPer2(Set<Integer> temp, int[] a, int k) {
-        System.out.println("checking...");
+    private static boolean checkAbsPer(Set<Integer> temp, int[] a, int k) {
         temp.clear();
-        println(a);
         for (int i = 0; i < a.length; i++) {
             int j = a[i];
             temp.add(j);
@@ -106,9 +93,45 @@ public class Solution {
         System.out.println();
     }
 
-    public static void main(String[] args) {
-        int[] result = absolutePermutation(100, 0);
-        System.out.println("result...");
+    public static void main(String[] args) throws IOException {
+        /*String testcase = "12.txt";
+        File file = new File("src/AbsolutePermutation/input" + testcase);
+        File out = new File("src/AbsolutePermutation/my_output" + testcase);
+        FileReader fileReader = new FileReader(file);
+        FileOutputStream fileWriter = new FileOutputStream(out);
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(fileWriter));
+        String line;
+        line = bufferedReader.readLine();
+        int num = Integer.parseInt(line);
+        for (int i = 0; i < num; i++) {
+            line = bufferedReader.readLine();
+            String[] input = line.split(" ");
+            int n = Integer.parseInt(input[0]);
+            int k = Integer.parseInt(input[1]);
+            int[] result = absolutePermutation(n, k);
+            for (int j = 0; j < result.length; j++) {
+                bufferedWriter.write(result[j] + "");
+                if (j != result.length - 1) {
+                    bufferedWriter.write(" ");
+                    System.out.print(result[j] + "");
+                }
+            }
+            if (i != num - 1) {
+                bufferedWriter.newLine();
+                System.out.println();
+            }
+        }
+        bufferedReader.close();
+        fileReader.close();
+        bufferedWriter.close();
+        fileWriter.close();*/
+        for (int i = 0; i < 8; i++) {
+            System.out.println(i + " - " + getMinValue(8, i, 2) + " - " + getMaxValue(8, i, 2));
+        }
+        int[] result = absolutePermutation(8, 2);
+
+        System.out.println("result:");
         println(result);
     }
 }

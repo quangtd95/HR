@@ -1,11 +1,8 @@
 package AbsolutePermutation;
 
-import java.io.*;
-import java.util.HashSet;
-import java.util.Set;
 import java.util.stream.IntStream;
 
-public class Solution2 {
+public class Solution3 {
     //return 0: error
     static int getMinValue(int n, int i, int k) {
         int xMin = i + 1 - k;
@@ -28,62 +25,102 @@ public class Solution2 {
         return Math.max(xMax, xMin);
     }
 
-    static boolean canChange(int n, int i, int k) {
-        return getMaxValue(n, i, k) != getMinValue(n, i, k);
-    }
-
-    static boolean cannotChange(int n, int i, int k) {
-        return !canChange(n, i, k);
-    }
-
     static int[] absolutePermutation(int n, int k) {
-        if (k == 0) {
-            return IntStream.range(1, n + 1).toArray();
+        if (n % 2 == 0) {
+            if (k > (n + 1) / 2) return error();
+        } else {
+            if (k >= (n + 1) / 2) return error();
         }
+
+        if (k == 0) return IntStream.range(1, n + 1).toArray();
         int[] a = new int[n];
-        for (int i = 0; i < n; i++) {
-            int value = getMinValue(n, i, k);
-            if (value == 0) {
-                return new int[]{-1};
+        boolean[] isUsed = new boolean[n + 1];
+        int chosen = 0;
+        for (int i = 0; i < k; i++) {
+            int value = i + 1 + k;
+            if (isUsed[value]) {
+                return error();
+            } else {
+                a[i] = value;
+                isUsed[value] = true;
+                chosen++;
             }
-            a[i] = value;
+
         }
-        Set<Integer> tempSet = new HashSet<>();
-        if (checkAbsPer(tempSet, a, k)) {
-            return a;
-        }
-        int firstMin;
-        while (true) {
-            firstMin = n - 1;
-            while (firstMin > 0 && (cannotChange(n, firstMin, k) || a[firstMin] == getMaxValue(n, firstMin, k))) {
-                firstMin--;
-            }
-            int i = firstMin;
-            a[i] = getMaxValue(n, i, k);
-            i++;
-            while (i < n) {
-                a[i] = getMinValue(n, i, k);
-                i++;
-            }
-            if (checkAbsPer(tempSet, a, k)) {
-                return a;
-            }
-            if (firstMin == 0 && a[firstMin] == getMaxValue(n, firstMin, k)) {
-                return new int[]{-1};
+        for (int i = n - k; i < n; i++) {
+            int value = i + 1 - k;
+            if (isUsed[value]) {
+                return error();
+            } else {
+                a[i] = value;
+                chosen++;
+                isUsed[value] = true;
             }
         }
+        int surelyIndex = 0;
+        int i = surelyIndex;
+        int value;
+        while (chosen != n) {
+            value = a[i];
+            int nextIndexEqualValue = findUsage(value, i, k, n);
+            if (nextIndexEqualValue != -1) {
+                int nextIdMinValue = getMinValue(n, nextIndexEqualValue, k);
+                int nextIdMaxValue = getMaxValue(n, nextIndexEqualValue, k);
+                int remainValue;
+                if (value == nextIdMinValue) {
+                    remainValue = nextIdMaxValue;
+                } else {
+                    remainValue = nextIdMinValue;
+                }
+                if (!isUsed[remainValue]) {
+                    a[nextIndexEqualValue] = remainValue;
+                    isUsed[remainValue] = true;
+                    chosen++;
+                } else {
+                    return error();
+                }
+                i = nextIndexEqualValue;
+            } else {
+                //ko tim` thay so tuong tu de loai bo.
+                surelyIndex = getNextSurelyIndex(surelyIndex, n, k);
+                if (surelyIndex == -1) {
+                    return error();
+                }
+                i = surelyIndex;
+            }
+
+        }
+        return a;
     }
 
-    private static boolean checkAbsPer(Set<Integer> temp, int[] a, int k) {
-        temp.clear();
-        for (int i = 0; i < a.length; i++) {
-            int j = a[i];
-            temp.add(j);
-            if (Math.abs(j - i - 1) != k) {
-                return false;
-            }
+    static int getNextSurelyIndex(int index, int n, int k) {
+//        1...k -> 0..k-1
+//        n - k + 1... n -> n-k...n-1
+        if (index < k - 1) {
+            return index + 1;
         }
-        return temp.size() == a.length;
+        if (index == k - 1) {
+            return n - k;
+        }
+        if (index >= n-k) {
+            return index + 1;
+        }
+        return -1;
+    }
+
+    static int findUsage(int value, int currentIndex, int k, int n) {
+        int i1 = value - k - 1;
+        if (i1 < 0) i1 = -1;
+        int i2 = value + k - 1;
+        if (i2 >= n) i2 = -1;
+        if (i1 == currentIndex) {
+            return i2;
+        }
+        return i1;
+    }
+
+    static int[] error() {
+        return new int[]{-1};
     }
 
     static void println(int[] arr) {
@@ -93,8 +130,8 @@ public class Solution2 {
         System.out.println();
     }
 
-    public static void main(String[] args) throws IOException {
-        /*String testcase = "12.txt";
+  /*  public static void main(String[] args) throws IOException {
+        String testcase = "02.txt";
         File file = new File("src/AbsolutePermutation/input" + testcase);
         File out = new File("src/AbsolutePermutation/my_output" + testcase);
         FileReader fileReader = new FileReader(file);
@@ -125,11 +162,16 @@ public class Solution2 {
         bufferedReader.close();
         fileReader.close();
         bufferedWriter.close();
-        fileWriter.close();*/
-        for (int i = 0; i < 8; i++) {
-            System.out.println(i + " - " + getMinValue(8, i, 2) + " - " + getMaxValue(8, i, 2));
+        fileWriter.close();
+    }*/
+
+    public static void main(String[] args) {
+        int n = 8;
+        int k = 2;
+        for (int i = 0; i < n; i++) {
+            System.out.println(i + " - " + getMinValue(n, i, k) + " - " + getMaxValue(n, i, k));
         }
-        int[] result = absolutePermutation(8, 2);
+        int[] result = absolutePermutation(n, k);
 
         System.out.println("result:");
         println(result);

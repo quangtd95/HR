@@ -3,25 +3,36 @@ package AppendandDelete;
 public class Solution {
     // Complete the appendAndDelete function below.
     static String appendAndDelete(String s, String t, int k) {
-        if (s.length() == t.length()) return "Yes";
-        int length = Math.min(s.length(), t.length());
-        int maxSameIndex = 0;
-        for (int i = 0; i < length; i++) {
-            if (s.charAt(i) != t.charAt(i)) {
-                maxSameIndex = i;
-                break;
-            }
+        int i = 0;
+        int max = Math.max(s.length(), t.length());
+        while (i < s.length() && i < t.length() && s.charAt(i) == t.charAt(i)) {
+            i++;
         }
-        if (s.length() + t.length() - maxSameIndex * 2 == k) {
+        i--;
+        if (i > 0) {
+            if (s.length() != t.length()) {
+                if (Math.abs(s.length() - t.length()) > k) {
+                    return "No";
+                }
+            }
+            if (k == max - i) {
+                return "Yes";
+            }
+            if ((max - i - k) % 2 == 0) {
+                return "Yes";
+            }
+
+        }
+        if (s.length() + t.length() <= k) {
             return "Yes";
         }
         return "No";
     }
 
     public static void main(String[] args) {
-        String s = "aba";
-        String t = "aba";
-        int k = 7;
+        String s = "hackerhappy";
+        String t = "hackerrank";
+        int k = 9;
         String result = appendAndDelete(s, t, k);
         System.out.println(result);
     }

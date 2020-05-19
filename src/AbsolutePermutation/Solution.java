@@ -10,9 +10,6 @@ public class Solution {
     // Complete the absolutePermutation function below.
     static int[] absolutePermutation(int n, int k) {
         int[] a = new int[n];
-        for (int i = 0; i < n; i++) {
-            a[i] = i + 1;
-        }
         Set<Integer> checkSet = new HashSet<>();
         boolean b = build(checkSet, a, 0, k);
         return b ? a : new int[]{-1};
@@ -59,6 +56,28 @@ public class Solution {
         return false;
     }
 
+    //return 0: error
+    static int getMinValue(int n, int i, int k) {
+        int xMin = i + 1 - k;
+        int xMax = i + 1 + k;
+        if (xMin <= 0 && xMax >= n + 1) {
+            return 0;
+        }
+        if (xMin <= 0 && xMax < n + 1) {
+            return xMax;
+        }
+        return Math.min(xMin, xMax);
+    }
+
+    static int getMaxValue(int n, int i, int k) {
+        int xMin = i + 1 - k;
+        int xMax = i + 1 + k;
+        if (xMax >= n + 1) {
+            return xMin;
+        }
+        return Math.max(xMax, xMin);
+    }
+
     static void println(int[] arr) {
         for (int value : arr) {
             System.out.print(value + " ");
@@ -67,7 +86,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] result = absolutePermutation(9331, 0);
+        int[] result = absolutePermutation(100, 0);
         System.out.println("result...");
         println(result);
     }
