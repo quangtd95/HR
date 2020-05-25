@@ -14,7 +14,7 @@ public class Solution {
         String[] results = s.trim().split("[ !,?._'@]+");
         System.out.println(results.length);
         for(String ss : results){
-            if (!ss.isBlank()){
+            if (!ss.isEmpty()){
                 System.out.println(ss);
             }
         }
