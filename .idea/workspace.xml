@@ -2,160 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5015b7-39ba-45c2-9c59-c58de04216fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaComparator/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaCurrencyFormatter/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaDatatypes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaDateandTime/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaEndOfFile/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaLambdaExpressions/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaLoopsII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaMD5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaOutputFormatting/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaRegex/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaRegex2DuplicateWords/DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaSort/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaStaticInitializerBlock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaStdinandStdoutII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaStringReverse/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaStringTokens/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaStringsIntroduction/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaSubstringComparisons/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/PatternSyntaxChecker/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSkill/TagContentExtractor/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/my_output12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/CanYouAccess/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaAnnotations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaFactoryPattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaReflectionAttributes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaVarargsSimpleAddition/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaVisitorPattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaVisitorPattern/input01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/JavaVisitorPattern/output01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSkill/PrimeChecker/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/BigSorting/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/EmasSupercomputer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/EmasSupercomputer/input06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/EmasSupercomputer/output06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/Encryption/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/OrganizingContainersofBalls/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/TheBombermanGame/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolve/TheTimeinWords/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ACMICPCTeam/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ACMICPCTeam/input01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ACMICPCTeam/input04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/input02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/input08.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/input12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/my_output02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/my_output12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/output02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/output08.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AbsolutePermutation/output12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AngryProfessor/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AppendandDelete/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulDaysattheMovies/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulTriplets/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BiggerisGreater/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Bomberman/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CavityMap/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ChocolateFeast/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CircularArrayRotation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CircularArrayRotation/input05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CircularArrayRotation/output05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CutTheSticks/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DayConCoTongBangS/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DayConDonDieuDaiNhat/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Demo/DemoArrayListVectorThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Demo/DemoThreadSafeStringBufferThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Demo/ThreadSafeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DesignerPDFViewer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/EqualizetheArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FairRations/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FindDigits/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FlatlandSpaceStations/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HalloweenSales/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HappyLadyBug/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HappyLadyBug/input01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HappyLadyBug/input02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HappyLadyBug/output02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JumpingOnClouds/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LibraryFine/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LisaWorkbook/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ManasaandStones/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MinimumDistances/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ModifiedKaprekarNumbers/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/NonDivisibleSubset/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PermutationEquation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/QueenAttackII/Solution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/QueenAttackII/Solution$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/QueenAttackII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/QueenAttackII/input06.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SaveThePrisoner/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SaveThePrisoner/input00.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SaveThePrisoner/output00.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SaveThePrisoner/output00_download.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ServiceLanes/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SherlockandSquares/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/StrangeCounter/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SurfaceArea3D/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TaumandBday/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheGridSearch/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheGridSearch/input05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Vali/Solution$Vali.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Vali/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ViralAdvertising/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/quang_td95_data.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACMICPCTeam/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ACMICPCTeam/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACMICPCTeam/input01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ACMICPCTeam/input01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACMICPCTeam/input04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ACMICPCTeam/input04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/input02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/input02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/input08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/input08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/input12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/input12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/my_output02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/my_output02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/my_output12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSkill/JavaAnagrams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/output02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/output02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/output08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/output08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbsolutePermutation/output12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AbsolutePermutation/output12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AngryProfessor/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AngryProfessor/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppendandDelete/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/AppendandDelete/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeautifulDaysattheMovies/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/BeautifulDaysattheMovies/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeautifulTriplets/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/BeautifulTriplets/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BiggerisGreater/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/BiggerisGreater/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bomberman/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/Bomberman/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CavityMap/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/CavityMap/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChocolateFeast/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ChocolateFeast/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularArrayRotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/CircularArrayRotation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularArrayRotation/input05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/CircularArrayRotation/input05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularArrayRotation/output05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/CircularArrayRotation/output05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CutTheSticks/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/CutTheSticks/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayConCoTongBangS/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/DayConCoTongBangS/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayConDonDieuDaiNhat/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/DayConDonDieuDaiNhat/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/ThreadSafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/Demo/ThreadSafeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignerPDFViewer/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/DesignerPDFViewer/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualizetheArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/EqualizetheArray/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FairRations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/FairRations/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindDigits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/FindDigits/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlatlandSpaceStations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/FlatlandSpaceStations/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalloweenSales/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/HalloweenSales/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HappyLadyBug/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/HappyLadyBug/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HappyLadyBug/input01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/HappyLadyBug/input01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HappyLadyBug/input02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/HappyLadyBug/input02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HappyLadyBug/output02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/HappyLadyBug/output02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JumpingOnClouds/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/JumpingOnClouds/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LibraryFine/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/LibraryFine/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LisaWorkbook/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/LisaWorkbook/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManasaandStones/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ManasaandStones/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumDistances/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/MinimumDistances/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModifiedKaprekarNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ModifiedKaprekarNumbers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NonDivisibleSubset/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/NonDivisibleSubset/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PermutationEquation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/PermutationEquation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueenAttackII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/QueenAttackII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueenAttackII/input06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/QueenAttackII/input06.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveThePrisoner/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SaveThePrisoner/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveThePrisoner/input00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SaveThePrisoner/input00.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveThePrisoner/output00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SaveThePrisoner/output00.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveThePrisoner/output00_download.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SaveThePrisoner/output00_download.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServiceLanes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ServiceLanes/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SherlockandSquares/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SherlockandSquares/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrangeCounter/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/StrangeCounter/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SurfaceArea3D/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/SurfaceArea3D/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaumandBday/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/TaumandBday/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheGridSearch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/TheGridSearch/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheGridSearch/input05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/TheGridSearch/input05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vali/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/Vali/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ViralAdvertising/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/ViralAdvertising/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quang_td95_data.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolve/quang_td95_data.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaAnagrams/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaAnagrams/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaCurrencyFormatter/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaCurrencyFormatter/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDatatypes/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDatatypes/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDateandTime/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDateandTime/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDateandTime/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaDateandTime/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaEndOfFile/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaEndOfFile/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/MyMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/MyMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/PerformOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/PerformOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLambdaExpressions/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLoopsII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaLoopsII/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaMD5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaMD5/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaOutputFormatting/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaOutputFormatting/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex/MyRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex/MyRegex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex2DuplicateWords/DuplicateWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaRegex2DuplicateWords/DuplicateWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStaticInitializerBlock/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStaticInitializerBlock/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStdinandStdoutII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStdinandStdoutII/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringReverse/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringReverse/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringTokens/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringTokens/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringsIntroduction/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaStringsIntroduction/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaSubstringComparisons/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/JavaSubstringComparisons/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/PatternSyntaxChecker/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/PatternSyntaxChecker/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/TagContentExtractor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/JavaSkill/TagContentExtractor/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ACMICPCTeam/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ACMICPCTeam/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AbsolutePermutation/Solution3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AngryProfessor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AngryProfessor/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AppendandDelete/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/AppendandDelete/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BeautifulDaysattheMovies/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BeautifulDaysattheMovies/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BeautifulTriplets/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BeautifulTriplets/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BiggerisGreater/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/BiggerisGreater/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Bomberman/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Bomberman/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CavityMap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CavityMap/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ChocolateFeast/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ChocolateFeast/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CircularArrayRotation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CircularArrayRotation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CutTheSticks/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/CutTheSticks/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DayConCoTongBangS/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DayConCoTongBangS/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DayConDonDieuDaiNhat/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DayConDonDieuDaiNhat/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/DemoArrayListVectorThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/DemoArrayListVectorThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/DemoThreadSafeStringBufferThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/DemoThreadSafeStringBufferThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/ThreadSafeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Demo/ThreadSafeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DesignerPDFViewer/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/DesignerPDFViewer/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/EqualizetheArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/EqualizetheArray/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FairRations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FairRations/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FindDigits/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FindDigits/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FlatlandSpaceStations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/FlatlandSpaceStations/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/HalloweenSales/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/HalloweenSales/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/HappyLadyBug/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/HappyLadyBug/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/JumpingOnClouds/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/JumpingOnClouds/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/LibraryFine/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/LibraryFine/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/LisaWorkbook/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/LisaWorkbook/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ManasaandStones/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ManasaandStones/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/MinimumDistances/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/MinimumDistances/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ModifiedKaprekarNumbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ModifiedKaprekarNumbers/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/NonDivisibleSubset/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/NonDivisibleSubset/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/PermutationEquation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/PermutationEquation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/QueenAttackII/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SaveThePrisoner/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SaveThePrisoner/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ServiceLanes/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ServiceLanes/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SherlockandSquares/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SherlockandSquares/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/StrangeCounter/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/StrangeCounter/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SurfaceArea3D/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/SurfaceArea3D/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/TaumandBday/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/TaumandBday/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/TheGridSearch/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/TheGridSearch/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Vali/Solution$Vali.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Vali/Solution$Vali.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Vali/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/Vali/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ViralAdvertising/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ProblemSolve/ViralAdvertising/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +99,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -203,7 +141,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -213,13 +151,13 @@
       <recent name="$PROJECT_DIR$/src/ProblemSolve" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSkill.JavaStringTokens.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolve.EmasSupercomputer.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSkill.JavaStringTokens.*" />
+          <option name="PATTERN" value="ProblemSolve.EmasSupercomputer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +166,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSkill.TagContentExtractor.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolve.Encryption.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSkill.TagContentExtractor.*" />
+          <option name="PATTERN" value="ProblemSolve.Encryption.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,24 +179,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSkill.JavaMD5.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolve.TheTimeinWords.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSkill.JavaMD5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSkill.PatternSyntaxChecker.Solution" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaSkill.PatternSyntaxChecker.*" />
+          <option name="PATTERN" value="ProblemSolve.TheTimeinWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +192,24 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSkill.JavaRegex.Solution" />
+      <option name="MAIN_CLASS_NAME" value="JavaSkill.JavaVisitorPattern.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSkill.JavaRegex.*" />
+          <option name="PATTERN" value="JavaSkill.JavaVisitorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolve.TheBombermanGame.Solution" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolve.TheBombermanGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -357,8 +295,27 @@
       <workItem from="1587228607143" duration="4069000" />
       <workItem from="1587289504211" duration="317000" />
       <workItem from="1590214061662" duration="9022000" />
-      <workItem from="1590249570151" duration="10781000" />
+      <workItem from="1590249570151" duration="11208000" />
+      <workItem from="1590292871976" duration="14381000" />
+      <workItem from="1590375979162" duration="200000" />
+      <workItem from="1590413940939" duration="10717000" />
+      <workItem from="1590485939141" duration="9000" />
+      <workItem from="1590488296249" duration="966000" />
+      <workItem from="1590595992066" duration="666000" />
+      <workItem from="1590599865653" duration="3222000" />
+      <workItem from="1590651683711" duration="43000" />
+      <workItem from="1590657859398" duration="11280000" />
+      <workItem from="1590687579183" duration="3210000" />
+      <workItem from="1590744409633" duration="802000" />
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1590376145116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590376145116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,111 +323,142 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590603284752">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="184" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.837@0.23.1440.837" timestamp="1590603284752" />
     <state x="445" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582291632307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582291632307" />
-    <state x="514" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1590263968900">
+    <state x="514" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1590689020057">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587230412202" />
-    <state x="514" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1590263968900" />
-    <state x="561" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590214448802">
+    <state x="514" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590324953519" />
+    <state x="514" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1590689020057" />
+    <state x="561" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590294127741">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="561" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.837@0.23.1440.837" timestamp="1590214448802" />
+    <state x="561" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.837@0.23.1440.837" timestamp="1590294127741" />
+    <state x="279" y="114" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590601825780">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="279" y="114" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.837@0.23.1440.837" timestamp="1590601825780" />
+    <state x="486" y="333" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590416197459">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="486" y="333" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.837@0.23.1440.837" timestamp="1590416197459" />
+    <state x="436" y="194" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1590341861762">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="436" y="175" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1440.900@0.0.1440.900" timestamp="1590305355322" />
+    <state x="436" y="194" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.877@0.23.1440.877" timestamp="1590341861762" />
     <state x="318" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587231331195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="318" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1587231331195" />
-    <state x="433" y="368" width="490" height="430" key="#xdebugger.evaluate" timestamp="1590221236586">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="754" y="253" width="490" height="430" key="#xdebugger.evaluate" timestamp="1590690819700">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="411" y="298" width="490" height="430" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1583082960968" />
     <state x="433" y="368" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590221236586" />
-    <state x="54" y="52" key="CommitChangelistDialog2" timestamp="1590217151957">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="54" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590217151957" />
-    <state width="478" height="454" key="DebuggerActiveHint" timestamp="1590257239654">
+    <state x="754" y="253" key="#xdebugger.evaluate/0.23.1440.837@0.23.1440.837" timestamp="1590690819700" />
+    <state x="54" y="65" key="CommitChangelistDialog2" timestamp="1590376144691">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="478" height="454" key="DebuggerActiveHint/0.23.1440.837@0.23.1440.837" timestamp="1590257239654" />
+    <state x="54" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590217151957" />
+    <state x="54" y="65" key="CommitChangelistDialog2/0.23.1440.837@0.23.1440.837" timestamp="1590376144691" />
+    <state width="478" height="454" key="DebuggerActiveHint" timestamp="1590293966300">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="478" height="454" key="DebuggerActiveHint/0.23.1440.837@0.23.1440.837" timestamp="1590293966300" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586969145914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586969145914" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1590262859790">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom" timestamp="1590763920657">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590251690340" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1590262859790" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1590262859789">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590763920657" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1590719306668" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590312943755" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center" timestamp="1590763920656">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590251690337" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1590262859789" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1590262859789">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590763920656" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1590719306667" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590312943754" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left" timestamp="1590763920655">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587232081440" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590251690335" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1590262859789" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1590262859790">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590763920655" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1590719306667" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590312943754" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right" timestamp="1590763920656">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587232081441" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590251690338" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1590262859790" />
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1590259987304">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590763920656" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1590719306668" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590312943755" />
+    <state width="1398" height="307" key="GridCell.Tab.1.bottom" timestamp="1590763920658">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="170" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586966283545" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590251685819" />
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1590259987304" />
-    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1590259987304">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590763920658" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1590719306669" />
+    <state width="1398" height="307" key="GridCell.Tab.1.center" timestamp="1590763920657">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="170" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586966283544" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590251685817" />
-    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1590259987304" />
-    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1590259987303">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590763920657" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1590719306668" />
+    <state width="1398" height="307" key="GridCell.Tab.1.left" timestamp="1590763920657">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="170" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586966283544" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590251685816" />
-    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1590259987303" />
-    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1590259987304">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1398" height="307" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590763920657" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1590719306668" />
+    <state width="1398" height="307" key="GridCell.Tab.1.right" timestamp="1590763920658">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1323" height="170" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586966283545" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590251685818" />
-    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1590259987304" />
+    <state width="1398" height="307" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590763920658" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1590719306669" />
     <state x="350" y="69" key="NewModule_or_Project.wizard" timestamp="1586969182744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="69" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1586969182744" />
-    <state x="71" y="23" key="SettingsEditor" timestamp="1590261028062">
+    <state x="71" y="23" key="SettingsEditor" timestamp="1590661513410">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586880262299" />
-    <state x="71" y="23" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1590261028062" />
+    <state x="71" y="23" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1590661513410" />
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2" timestamp="1590376147402">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1590376147402" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582348178635">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1582348178635" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587289788072">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587289788072" />
-    <state x="503" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590262853075">
+    <state x="405" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1590744414833">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="503" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.837@0.23.1440.837" timestamp="1590262853075" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587289788072" />
+    <state x="405" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1590744414833" />
+    <state x="503" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590424790237">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="503" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.837@0.23.1440.837" timestamp="1590424790237" />
     <state x="247" y="103" width="871" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586966202060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -479,14 +467,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="130" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582355306286" />
-    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1583083884931">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="401" y="119" width="683" height="663" key="find.popup" timestamp="1590299684882">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583083884931" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1590263827726">
+    <state x="401" y="119" width="683" height="663" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590299684882" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1590488628376">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="600" height="424" key="javadoc.popup/0.23.1440.837@0.23.1440.837" timestamp="1590263827726" />
+    <state width="600" height="456" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1590301284634" />
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.837@0.23.1440.837" timestamp="1590488628376" />
     <state x="65" y="72" key="new project wizard" timestamp="1587289817667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -495,12 +485,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582305219767" />
-    <state x="365" y="80" width="709" height="781" key="search.everywhere.popup" timestamp="1590262317169">
+    <state x="365" y="80" width="709" height="781" key="search.everywhere.popup" timestamp="1590687742266">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587231253143" />
     <state x="365" y="61" width="709" height="839" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590223239298" />
-    <state x="365" y="80" width="709" height="781" key="search.everywhere.popup/0.23.1440.837@0.23.1440.837" timestamp="1590262317169" />
+    <state x="365" y="80" width="709" height="781" key="search.everywhere.popup/0.23.1440.837@0.23.1440.837" timestamp="1590687742266" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,11 +501,26 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaSkill/JavaStringTokens/Solution.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/JavaSkill/JavaList/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaSkill/JavaList/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProblemSolve/EmasSupercomputer/Solution.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HR$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1590676977759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ProblemSolve.TheBombermanGame.*</FILTER>
+    </SUITE>
   </component>
 </project>
